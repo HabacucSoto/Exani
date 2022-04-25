@@ -1,6 +1,6 @@
 # Probabilidad y Estadística
 
-<ul>
+<ul style="list-style: none">
 
 <li> 
     <h2>Concepto y utilidad de la estadística descriptiva</h2>
