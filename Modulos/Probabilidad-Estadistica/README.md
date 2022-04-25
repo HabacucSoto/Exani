@@ -17,27 +17,26 @@
 </li>
 
 
+<br>
 
 
-
-
-
-
+<li> 
+    <h2>Concepto y utilidad de la estadística inferencial</h2>
+    <ul>
+        <li>
+            <p>Concepto</p>
+            <p>La estadística inferencial nos permite estimar parámetros poblacionales a partir de la muestra utilizada, así como realizar el contraste de hipótesis. Los test estadísticos aplicados dependerán de la naturaleza de nuestros datos y tipo de variables.</p>
+        </li>
+        <li>
+            <p>Utilidad</p>
+            <p>La estadística inferencial puede ser utilizada en una serie de ciencias por ejemplo en las ciencias naturales donde usa para describir modelos termodinámicos complejos, en el campo de la física cuántica, en la mecánica de fluidos y en la teoría cinética de los gases.</p>
+        </li>
+    </ul>
+</li>
 
 
 <br>
 
-## 2. Concepto y utilidad de la estadística inferencial
-
-- Concepto
-
-La estadística inferencial nos permite estimar parámetros poblacionales a partir de la muestra utilizada, así como realizar el contraste de hipótesis. Los test estadísticos aplicados dependerán de la naturaleza de nuestros datos y tipo de variables.
-
-- Utilidad
-
-La estadística inferencial puede ser utilizada en una serie de ciencias por ejemplo en las ciencias naturales donde usa para describir modelos termodinámicos complejos, en el campo de la física cuántica, en la mecánica de fluidos y en la teoría cinética de los gases.
-
-<br>
 
 ## 3. Definición de población, muestra y censo
 
