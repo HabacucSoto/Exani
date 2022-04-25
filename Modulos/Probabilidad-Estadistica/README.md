@@ -1,7 +1,5 @@
 # Probabilidad y Estadística
 
-<br>
-
 ## 1. Concepto y utilidad de la estadística descriptiva
 
 - Concepto
@@ -28,41 +26,60 @@ La estadística inferencial puede ser utilizada en una serie de ciencias por eje
 
 ## 3. Definición de población, muestra y censo
 
+- Población
+
+En estadística, una población es un conjunto de elementos o eventos similares que son de interés para alguna pregunta o experimento.​ Una población estadística puede ser un grupo de objetos existentes o una hipotética y potencialmente infinita grupo de objetos concebidos como una generalización de la experiencia.
+
+- Muestra
+
+En estadística, una muestra es un subconjunto de casos o individuos de una población. En diversas aplicaciones, interesa que una muestra sea representativa, y para ello debe escogerse una técnica de muestra adecuada que produzca una muestra aleatoria adecuada.
+
+- Censo
+
+En estadística descriptiva, se denomina censo al recuento de individuos que conforman una población estadística, definida como un conjunto de elementos de referencia sobre el que se realizan las observaciones.
 
 <br>
 
 ## 4 Variables y sus tipos
 
+Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.
+Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:
 
 <br>
 
-### 4.1. Cuantitativas
+### 4.1. Variables cuantitativas
 
-
-<br>
-
-#### 4.1.1 Continuas
-
+Son variables que se expresan numéricamente.
 
 <br>
 
-#### 4.1.2  Discretas
+#### 4.1.1 Variables continuas
 
-
-<br>
-
-### 4.2. Cualitativas
-
+Toman un valor infinito de valores entre un intervalo de datos. EJ: El tiempo que tarda un corredor en completar los 100 metros lisos.
 
 <br>
 
-#### 4.2.1 Nominales
+#### 4.1.2  Variables discretas
 
+Toman un valor finito de valores entre un intervalo de datos.  EJ: Número de helados vendidos.
 
 <br>
 
-#### 4.2.2 Ordinales
+### 4.2. Variables cualitativas
 
+Son variables que se expresan, por norma general, en palabras.
+
+<br>
+
+#### 4.2.1 Variables nominales
+
+Expresan un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.
+
+<br>
+
+#### 4.2.2 Variables ordinales
+
+Expresan diferentes niveles y orden.
 
 <br>
 
