@@ -1,6 +1,6 @@
 # Probabilidad y Estadística
 
-<ol>
+<ul>
 
 <li> 
     <h2>Concepto y utilidad de la estadística descriptiva</h2>
@@ -273,4 +273,4 @@ Expresan diferentes niveles y orden.
 #### 12.3.3 Teorema de Bayes
 
 
-</ol>
+</ul>
