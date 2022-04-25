@@ -14,8 +14,15 @@ La estadística descriptiva es aplicable en casi todas las áreas donde se recop
 
 <br>
 
-## 2. Concepto y utilidad de la estadística indiferencial
+## 2. Concepto y utilidad de la estadística inferencial
 
+- Concepto
+
+La estadística inferencial nos permite estimar parámetros poblacionales a partir de la muestra utilizada, así como realizar el contraste de hipótesis. Los test estadísticos aplicados dependerán de la naturaleza de nuestros datos y tipo de variables.
+
+- Utilidad
+
+La estadística inferencial puede ser utilizada en una serie de ciencias por ejemplo en las ciencias naturales donde usa para describir modelos termodinámicos complejos, en el campo de la física cuántica, en la mecánica de fluidos y en la teoría cinética de los gases.
 
 <br>
 
