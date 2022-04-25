@@ -45,37 +45,31 @@ En estadística descriptiva, se denomina censo al recuento de individuos que con
 Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.
 Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:
 
-<br>
 
 ### 4.1. Variables cuantitativas
 
 Son variables que se expresan numéricamente.
 
-<br>
 
 #### 4.1.1 Variables continuas
 
 Toman un valor infinito de valores entre un intervalo de datos. EJ: El tiempo que tarda un corredor en completar los 100 metros lisos.
 
-<br>
 
 #### 4.1.2  Variables discretas
 
 Toman un valor finito de valores entre un intervalo de datos.  EJ: Número de helados vendidos.
 
-<br>
 
 ### 4.2. Variables cualitativas
 
 Son variables que se expresan, por norma general, en palabras.
 
-<br>
 
 #### 4.2.1 Variables nominales
 
 Expresan un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.
 
-<br>
 
 #### 4.2.2 Variables ordinales
 
@@ -86,27 +80,22 @@ Expresan diferentes niveles y orden.
 ## 5. Distribución de frecuencias
 
 
-<br>
 
 ### 5.1 Clases
 
 
-<br>
 
 ### 5.2 Intervalos
 
 
-<br>
 
 ### 5.3 Límites
 
 
-<br>
 
 ### 5.4 Límites reales o fronteras
 
 
-<br>
 
 ### 5.5 Marcas de clase
 
@@ -117,17 +106,14 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
 
 ### 6.1 Media
 
 
-<br>
 
 ### 6.2 Mediana
 
 
-<br>
 
 ### 6.3 Moda
 
@@ -138,17 +124,14 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
 
 ### 7.1 Cuartiles
 
 
-<br>
 
 ### 7.2 Deciles
 
 
-<br>
 
 ### 7.3 Percentiles
 
@@ -159,17 +142,13 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
-
 ### 8.1 Rango | Amplitud
 
 
-<br>
 
 ### 8.2 Varianza
 
 
-<br>
 
 ### 8.3 Desviación típica o estándar
 
@@ -179,27 +158,22 @@ Expresan diferentes niveles y orden.
 ## 9. Representaciones gráficas
 
 
-<br>
 
 ### 9.1 Barras
 
 
-<br>
 
 ### 9.2 Histograma
 
 
-<br>
 
 ### 9.3 Polígono
 
 
-<br>
 
 ### 9.4 Ojiva
 
 
-<br>
 
 ### 9.5 Circular
 
@@ -210,37 +184,30 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
 
 ### 10.1 Operaciones de conjuntos
 
 
-<br>
 
 #### 10.1.1 Unión
 
 
-<br>
 
 #### 10.1.2 Intersección
 
 
-<br>
 
 #### 10.1.3 Diferencia
 
 
-<br>
 
 #### 10.1.4 Complemento
 
 
-<br>
 
 ### 10.2 Diagrama de Venn
 
 
-<br>
 
 ### 10.3 Diagrama de Euler
 
@@ -251,17 +218,13 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
-
 ### 11.1 Diagrama de árbol
 
 
-<br>
 
 ### 11.2 Combinaciones
 
 
-<br>
 
 ### 11.3 Permutaciones
 
@@ -272,34 +235,26 @@ Expresan diferentes niveles y orden.
 
 
 
-<br>
-
 ### 12.1 Concepto y aplicación de probabilidad
 
 
-<br>
 
 ### 12.2 Experimentos aleatorios y determinísticos
 
 
-<br>
 
 ### 12.3 Distribuciones de probabilidad
 
 
-<br>
 
 #### 12.3.1 Binomial
 
 
-<br>
 
 #### 12.3.2 Normal
 
 
-<br>
 
 #### 12.3.3 Teorema de Bayes
 
 
-<br>
