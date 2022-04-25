@@ -66,29 +66,29 @@
     <p>Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:</p>
     <ol>
         <li>
-            <p>Variables cuantitativas</p>
+            <h3>Variables cuantitativas</h3>
             <p>Son variables que se expresan numéricamente.</p>
             <ol>
                 <li>
-                    <p>Variables continuas</p>
+                    <h4>Variables continuas</h4>
                     <p>Toman un valor infinito de valores entre un intervalo de datos. EJ: El tiempo que tarda un corredor en completar los 100 metros lisos.</p>
                 </li>
                 <li>
-                    <p>Variables discretas</p>
+                    <h4>Variables discretas</h4>
                     <p>Toman un valor finito de valores entre un intervalo de datos.  EJ: Número de helados vendidos.</p>
                 </li>
             </ol>
         </li>
         <li>
-            <p>Variables cualitativas</p>
+            <h3>Variables cualitativas</h3>
             <p>Son variables que se expresan, por norma general, en palabras.</p>
             <ol>
                 <li>
-                    <p>Variables nominales</p>
+                    <h4>Variables nominales</h4>
                     <p>Expresan un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</p>
                 </li>
                 <li>
-                    <p>Variables ordinales</p>
+                    <h4>Variables ordinales</h4>
                     <p>Expresan diferentes niveles y orden.</p>
                 </li>
             </ol>
