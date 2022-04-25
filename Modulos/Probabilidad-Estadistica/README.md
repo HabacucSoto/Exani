@@ -4,7 +4,13 @@
 
 ## 1. Concepto y utilidad de la estadística descriptiva
 
-La estadística descriptiva es la técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos con el propósito de facilitar el uso, generalmente con el apoyo de tablas, medidas numéricas o gráficas
+- Concepto
+
+La estadística descriptiva es la técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos con el propósito de facilitar el uso, generalmente con el apoyo de tablas, medidas numéricas o gráficas.
+
+- Utilidad
+
+La estadística descriptiva es aplicable en casi todas las áreas donde se recopilan datos cuantitativos.
 
 <br>
 
