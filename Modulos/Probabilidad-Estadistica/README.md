@@ -146,8 +146,7 @@
 
 <br>
 
-## 9. Representaciones gráficas:
-
+## 9. Representaciones gráficas
 
 
 <br>
@@ -185,17 +184,38 @@
 
 ### 10.1 Operaciones de conjuntos
 
+
+<br>
+
 #### 10.1.1 Unión
+
+
+<br>
 
 #### 10.1.2 Intersección
 
-#### 10.1.3 Diferencia 
+
+<br>
+
+#### 10.1.3 Diferencia
+
+
+<br>
 
 #### 10.1.4 Complemento
 
+
+<br>
+
 ### 10.2 Diagrama de Venn
 
+
+<br>
+
 ### 10.3 Diagrama de Euler
+
+
+<br>
 
 ## 11. Espacio muestral
 
