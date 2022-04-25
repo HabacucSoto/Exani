@@ -38,56 +38,82 @@
 <br>
 
 
-## 3. Definición de población, muestra y censo
+<li>
+    <h2>Definición de población, muestra y censo</h2>
+    <ul>
+        <li>
+            <p>Población</p>
+            <p>En estadística, una población es un conjunto de elementos o eventos similares que son de interés para alguna pregunta o experimento.​ Una población estadística puede ser un grupo de objetos existentes o una hipotética y potencialmente infinita grupo de objetos concebidos como una generalización de la experiencia.</p>
+        </li>
+        <li>
+            <p>Muestra</p>
+            <p>En estadística, una muestra es un subconjunto de casos o individuos de una población. En diversas aplicaciones, interesa que una muestra sea representativa, y para ello debe escogerse una técnica de muestra adecuada que produzca una muestra aleatoria adecuada.</p>
+        </li>
+        <li>
+            <p>Censo</p>
+            <p>En estadística descriptiva, se denomina censo al recuento de individuos que conforman una población estadística, definida como un conjunto de elementos de referencia sobre el que se realizan las observaciones.</p>
+        </li>
+    </ul>
+</li>
 
-- Población
-
-En estadística, una población es un conjunto de elementos o eventos similares que son de interés para alguna pregunta o experimento.​ Una población estadística puede ser un grupo de objetos existentes o una hipotética y potencialmente infinita grupo de objetos concebidos como una generalización de la experiencia.
-
-- Muestra
-
-En estadística, una muestra es un subconjunto de casos o individuos de una población. En diversas aplicaciones, interesa que una muestra sea representativa, y para ello debe escogerse una técnica de muestra adecuada que produzca una muestra aleatoria adecuada.
-
-- Censo
-
-En estadística descriptiva, se denomina censo al recuento de individuos que conforman una población estadística, definida como un conjunto de elementos de referencia sobre el que se realizan las observaciones.
 
 <br>
 
-## 4 Variables y sus tipos
 
-Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.
-Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:
+<li>
+    <h2></h2>
+    <ul>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+    </ul>
+</li>
 
+<li>
+    <h2>Variables y sus tipos</h2>
+    <p>Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.</p>
+    <p>Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:</p>
+    <ol>
+        <li>
+            <p>Variables cuantitativas</p>
+            <p>Son variables que se expresan numéricamente.</p>
+            <ol>
+                <li>
+                    <p>Variables continuas</p>
+                    <p>Toman un valor infinito de valores entre un intervalo de datos. EJ: El tiempo que tarda un corredor en completar los 100 metros lisos.</p>
+                </li>
+                <li>
+                    <p>Variables discretas</p>
+                    <p>Toman un valor finito de valores entre un intervalo de datos.  EJ: Número de helados vendidos.</p>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <p>Variables cualitativas</p>
+            <p>Son variables que se expresan, por norma general, en palabras.</p>
+            <ol>
+                <li>
+                    <p>Variables nominales</p>
+                    <p>Expresan un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.</p>
+                </li>
+                <li>
+                    <p>Variables ordinales</p>
+                    <p>Expresan diferentes niveles y orden.</p>
+                </li>
+            </ol>
+        </li>
+    </ol>
+</li>
 
-### 4.1. Variables cuantitativas
-
-Son variables que se expresan numéricamente.
-
-
-#### 4.1.1 Variables continuas
-
-Toman un valor infinito de valores entre un intervalo de datos. EJ: El tiempo que tarda un corredor en completar los 100 metros lisos.
-
-
-#### 4.1.2  Variables discretas
-
-Toman un valor finito de valores entre un intervalo de datos.  EJ: Número de helados vendidos.
-
-
-### 4.2. Variables cualitativas
-
-Son variables que se expresan, por norma general, en palabras.
-
-
-#### 4.2.1 Variables nominales
-
-Expresan un nombre claramente diferenciado. Por ejemplo el color de ojos puede ser azul, negro, castaño, verde, etc.
-
-
-#### 4.2.2 Variables ordinales
-
-Expresan diferentes niveles y orden.
 
 <br>
 
