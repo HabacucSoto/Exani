@@ -9,6 +9,10 @@
             <p>Concepto</p>
             <p>La estadística descriptiva es la técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos con el propósito de facilitar el uso, generalmente con el apoyo de tablas, medidas numéricas o gráficas.</p>
         </li>
+        <li>
+            <p>Utilidad</p>
+            <p>La estadística descriptiva es aplicable en casi todas las áreas donde se recopilan datos cuantitativos.</p>
+        </li>
     </ul>
 </li>
 
@@ -17,9 +21,9 @@
 
 
 
-- Utilidad
 
-La estadística descriptiva es aplicable en casi todas las áreas donde se recopilan datos cuantitativos.
+
+
 
 <br>
 
