@@ -3,7 +3,7 @@
 <ol>
 
 <li> 
-## 1. Concepto y utilidad de la estadística descriptiva
+    <h2>1. Concepto y utilidad de la estadística descriptiva</h2>
 </li>
 
 
