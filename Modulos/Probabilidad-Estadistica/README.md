@@ -61,24 +61,6 @@
 
 
 <li>
-    <h2></h2>
-    <ul>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-    </ul>
-</li>
-
-<li>
     <h2>Variables y sus tipos</h2>
     <p>Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.</p>
     <p>Aunque hay decenas de tipos de variables estadísticas, por norma general podemos encontrarnos dos tipos de variables:</p>
@@ -116,6 +98,27 @@
 
 
 <br>
+
+
+<!-- 
+<li>
+    <h2></h2>
+    <ul>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+        <li>
+            <p></p>
+            <p></p>
+        </li>
+    </ul>
+</li>
+-->
 
 ## 5. Distribución de frecuencias
 
