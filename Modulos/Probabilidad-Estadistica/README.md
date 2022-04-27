@@ -120,7 +120,103 @@
 </li>
 -->
 
-## 5. Distribución de frecuencias
+<li>
+    <h2>Distribución de frecuencias</h2>
+    <p>Las tablas de distribución de frecuencias se utilizan cuando se recolectan datos, con ellas se pueden representar los datos de manera que es más fácil analizarlos.
+    </p>
+    <p>
+    Se pueden elaborar tablas de distribución de frecuencias para datos no agrupados y para datos agrupados. Estas últimas se utiliza cuando se tienen muchos datos.
+    </p>
+    <p>
+    Para elaborar tablas de distribuciones de frecuencia se debe tener en cuenta lo siguiente:
+    </p>
+    <p>
+    Cuando hay muchos datos se agrupan en clases.
+    Esto consiste en agrupar los datos en una distribución de frecuencias, que puede definirse como una ordenación o arreglo de datos en clases o categorías que muestran para cada una de ellas, el número de elementos que contiene, denominada frecuencia.
+    </p>
+    <ul>
+        <li>
+            <h3>Clases</h3>
+            <p>Es cada uno de los grupos en que se dividen los datos. Para determinar cuántas clases crear, se puede utilizar la siguiente fórmula (fórmula de Sturges)</p>
+            <p>( 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑐𝑙𝑎𝑠𝑒𝑠 = 1 + 3,322 𝑙𝑜𝑔 𝑁 ) donde N es el número total de datos</p>
+        </li>
+        <li>
+            <h3>Intervalos</h3>
+            <p>El intervalo de clase o el ancho de la clase (tamaño de la clase) es el espacio que hay entre el límite superior y el límite inferior de la clase, los cuales corresponden a los valores extremos de la clase. </p>
+            <p>𝐴𝑛𝑐ℎ𝑜 𝑑𝑒 𝑐𝑙𝑎𝑠𝑒 = ( 𝑑𝑎𝑡𝑜 𝑠𝑢𝑝𝑒𝑟𝑖𝑜𝑟 - 𝑑𝑎𝑡𝑜 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 ) / 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑐𝑙𝑎𝑠𝑒𝑠 </p>
+        </li>
+        <li>
+            <h3>Límites</h3>
+            <p>Los límites de clase son los valores que separan a una clase en particular de la anterior y de la siguiente.</p>
+        </li>
+        <li>
+            <h3>Límites reales o fronteras</h3>
+            <p>Es el promedio del límite superior de la primer clase con el límite inferior de la segunda clase</p>
+            <p>( Ls primer clase + Li segunda clase ) / 2</p>
+        </li>
+        <li>
+            <h3>Marcas de clase</h3>
+            <p>Es el punto medio de la clase. Se obtiene dividiendo entre dos la suma de los valores extremos de cada clase.</p>
+        </li>
+        <li>
+            <h3>Ejemplo de tabla de distribución de frecuencia</h3>
+            <table>
+                <tr>
+                    <th>Clase</th>
+                    <th>Intervalo</th>
+                    <th>Li</th>
+                    <th>Ls</th>
+                    <th>Lr</th>
+                    <th>Frec</th>
+                    <th>Marca de clase</th>
+                    <th>Frec Acum</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>10 - 20</td>
+                    <td>10</td>
+                    <td>20</td>
+                    <td>20.5</td>
+                    <td>11</td>
+                    <td>15</td>
+                    <td>11</td>                    
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td> 
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td> 
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td> 
+                </tr>
+            </table>
+        </li>
+    </ul>
+</li>
+
+## 5. 
 
 
 
