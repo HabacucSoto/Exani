@@ -182,34 +182,34 @@
                     <td>11</td>                    
                 </tr>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td> 
+                    <td>2</td>
+                    <td>21 - 31</td>
+                    <td>21</td>
+                    <td>31</td>
+                    <td>31.5</td>
+                    <td>10</td>
+                    <td>26</td>
+                    <td>21</td> 
                 </tr>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td> 
+                    <td>3</td>
+                    <td>32 - 42</td>
+                    <td>32</td>
+                    <td>42</td>
+                    <td>42.5</td>
+                    <td>7</td>
+                    <td>37</td>
+                    <td>28</td> 
                 </tr>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td> 
+                    <td>4</td>
+                    <td>43 - 53</td>
+                    <td>43</td>
+                    <td>53</td>
+                    <td> - </td>
+                    <td>6</td>
+                    <td>48</td>
+                    <td>34</td> 
                 </tr>
             </table>
         </li>
