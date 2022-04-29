@@ -250,19 +250,19 @@
             <h3>Cuartiles</h3>
             <p>Se dividen los datos en cuatro partes iguales:</p>
             <p>Q1 = 25%, Q2 = 50%, Q3 = 75% </p>
-            <img src="/img/cuartiles.png"></img>
+            <img src="./img/cuartiles.png"></img>
         </li>
         <li>
             <h3>Deciles</h3>
             <p>Se dividen los datos en 10 partes iguales:</p>
             <p>Se calcula desde el D1 hasta el D9</p>
-            <img src="/img/deciles.png"></img>
+            <img src="./img/deciles.png"></img>
         </li>
         <li>
             <h3>Percentiles</h3>
             <p>Se dividen los datos en 100 partes iguales</p>
             <p>Se calculan del P1 al P99</p>
-            <img src="/img/percentiles.png"></img>
+            <img src="./img/percentiles.png"></img>
         </li>
     </ul>
 </li>
