@@ -223,25 +223,6 @@
 <br>
 
 
-<!-- 
-<li>
-    <h2></h2>
-    <ul>
-        <li>
-            <h3></h3>
-            <p></p>
-        </li>
-        <li>
-            <h3></h3>
-            <p></p>
-        </li>
-        <li>
-            <h3></h3>
-            <p></p>
-        </li>
-    </ul>
-</li>
--->
 <li>
     <h2>Medidas de posición en datos agrupados y datos no agrupados</h2>
     <p>Las medidas de posición son aquellas en donde puedes dividir los datos en dos partes iguales, llamada mediana, lo puedes dividir en cuatro partes iguales llamado cuartiles, en diez partes iguales llamados deciles y en percentiles dividir en 100 partes iguales.</p>
@@ -270,19 +251,47 @@
 
 <br>
 
-## 8. Medidas de dispersión en datos agrupados y datos no agrupados
 
-
-
-### 8.1 Rango | Amplitud
-
-
-
-### 8.2 Varianza
-
-
-
-### 8.3 Desviación típica o estándar
+<!-- 
+<li>
+    <h2></h2>
+    <ul>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+    </ul>
+</li>
+-->
+<li>
+    <h2>Medidas de dispersión en datos agrupados y datos no agrupados</h2>
+    <p>En otras palabras, las medidas de dispersión son números que indican si una variable se mueve mucho, poco, más o menos que otra. La razón de ser de este tipo de medidas es conocer de manera resumida una característica de la variable estudiada.</p>
+    <ul>
+        <li>
+            <h3>Rango / Amplitud</h3>
+            <p>El rango es un valor numérico que indica la diferencia entre el valor máximo y el mínimo de una población o muestra estadística. Su fórmula es:</p>
+            <img src="./img/rango.png"></img>
+        </li>
+        <li>
+            <h3>Varianza</h3>
+            <p>La varianza es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su media. Formalmente se calcula como la suma de los residuos al cuadrado divididos entre el total de observaciones. Su fórmula es:</p>
+            <img src="./img/varianza.png"></img>
+        </li>
+        <li>
+            <h3>Desviación típica o estándar</h3>
+            <p>La desviación típica es otra medida que ofrece información de la dispersión respecto a la media. Su cálculo es exactamente el mismo que la varianza, pero realizando la raíz cuadrada de su resultado. Es decir, la desviación típica es la raíz cuadrada de la varianza.</p>
+            <img src="./img/desviacion.png"></img>
+        </li>
+    </ul>
+</li>
 
 
 <br>
