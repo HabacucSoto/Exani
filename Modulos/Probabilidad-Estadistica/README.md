@@ -100,26 +100,6 @@
 <br>
 
 
-<!-- 
-<li>
-    <h2></h2>
-    <ul>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-        <li>
-            <p></p>
-            <p></p>
-        </li>
-    </ul>
-</li>
--->
-
 <li>
     <h2>Distribución de frecuencias</h2>
     <p>Las tablas de distribución de frecuencias se utilizan cuando se recolectan datos, con ellas se pueden representar los datos de manera que es más fácil analizarlos.
@@ -216,63 +196,74 @@
     </ul>
 </li>
 
-## 5. 
+
+<br>
 
 
-
-### 5.1 Clases
-
-
-
-### 5.2 Intervalos
-
-
-
-### 5.3 Límites
-
-
-
-### 5.4 Límites reales o fronteras
-
-
-
-### 5.5 Marcas de clase
+<li>
+    <h2>Medidas de tendencia central</h2>
+    <p>Las medidas de tendencia central sirven para conocer en qué lugar se ubica el elemento promedio, o típico del grupo.</p>
+    <ul>
+        <li>
+            <h3>Media</h3>
+            <p>La media es el valor promedio de un conjunto de datos numéricos, calculada como la suma del conjunto de valores dividida entre el número total de valores.</p>
+        </li>
+        <li>
+            <h3>Mediana</h3>
+            <p>La mediana es un estadístico de posición central que parte la distribución en dos, es decir, deja la misma cantidad de valores a un lado que a otro.</p>
+        </li>
+        <li>
+            <h3>Moda</h3>
+            <p>La moda es el valor que más se repite en una muestra estadística o población. No tiene fórmula en sí mismo. Lo que habría que realizar es la suma de las repeticiones de cada valor.</p>
+        </li>
+    </ul>
+</li>
 
 
 <br>
 
-## 6. Medidas de tendencia central
 
-
-
-
-### 6.1 Media
-
-
-
-### 6.2 Mediana
-
-
-
-### 6.3 Moda
-
-
-<br>
-
-## 7. Medidas de posición en datos agrupados y datos no agrupados
-
-
-
-
-### 7.1 Cuartiles
-
-
-
-### 7.2 Deciles
-
-
-
-### 7.3 Percentiles
+<!-- 
+<li>
+    <h2></h2>
+    <ul>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+        <li>
+            <h3></h3>
+            <p></p>
+        </li>
+    </ul>
+</li>
+-->
+<li>
+    <h2>Medidas de posición en datos agrupados y datos no agrupados</h2>
+    <p>Las medidas de posición son aquellas en donde puedes dividir los datos en dos partes iguales, llamada mediana, lo puedes dividir en cuatro partes iguales llamado cuartiles, en diez partes iguales llamados deciles y en percentiles dividir en 100 partes iguales.</p>
+    <ul>
+        <li>
+            <h3>Cuartiles</h3>
+            <p>Se dividen los datos en cuatro partes iguales:</p>
+            <p>Q1 = 25%, Q2 = 50%, Q3 = 75% </p>
+            
+        </li>
+        <li>
+            <h3>Deciles</h3>
+            <p>Se dividen los datos en 10 partes iguales:</p>
+            <p>Se calcula desde el D1 hasta el D9</p>
+        </li>
+        <li>
+            <h3>Percentiles</h3>
+            <p>Se dividen los datos en 100 partes iguales</p>
+            <p>Se calculan del P1 al P99</p>
+        </li>
+    </ul>
+</li>
 
 
 <br>
